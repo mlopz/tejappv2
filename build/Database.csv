@@ -1,0 +1,88 @@
+Documento;Familia;Apellido;Nombre Completo;Nombre;Sexo;Edad;Fecha de nacimiento;Sipi;Turno;Fecha Documento ;Aptitud Fisica;Vacunas;AFAM;PAI;Fonasa;Dia de Piscina
+59485722;03640833;Gamarra De Armas;Facundo Gamarra De Armas;Facundo;V;12;24/01/2012;449548;Vespertino;9/1/2029;21/11/2024;01/01/2024;Si;;No;Viernes
+59570395;;Duarte;Maria Duarte;Maria;M;12;3/17/2012 4:00:00;465181;Matutino;30/6/2028;1/9/2024;17/03/2027;Si;03/04/2024;;
+59638422;b03be0fb;Maldonado Gamboa;Rocio Maldonado Gamboa;Rocio;M;12;2/05/2012;469105;Vespertino;07/08/2028;26/12/2024;2/5/2024;Si;01/01/2022;No;Viernes
+59759929;2ed2bbb7;Burgueño;Jairo Burgueño;Jairo;V;12;7/18/2012 4:00:00;470308;Matutino;7/10/2028;11/3/2025;18/07/2057;Si;01/07/2023;Si;
+59775866;1DA9752B;Dotti Rienzo;Maite Dotti Rienzo;Maite;M;12;27/07/2012;461890;Vespertino;02/09/2028;14/02/2025;27/07/2024;Si;01/01/2020;Si;Viernes
+59813408;98465074;Pedraja Escobal;Eugenia Pedraja Escobal;Eugenia;M;12;20/08/2012;661355;Matutino;11/04/2029;08/01/2025;20/08/2024;No;;Si;
+59869996;082ACDC2;Roldan Dos Santos;Santiago Roldan Dos Santos;Santiago;V;12;22/09/2012;500110;Vespertino;7/11/2028;24/04/2025;22/09/2057;Si;;No;Viernes
+59953844;6ed033c3;Navarro Ortiz;Micaela Navarro Ortiz;Micaela;M;11;13/11/2012;742739;Vespertino;13/12/2028;11/07/2025;13/11/2024;Si;;No;Viernes
+59985277;;Etcheverry;Agustina Etcheverry;Agustina;M;11;12/4/2012 5:00:00;812661;Matutino;14/2/2029;5/5/2025;22/10/2024;;22/10/2024;;
+60046010;72b0939d;Amado Perez;Mikaela Amado Perez;Mikaela;M;11;11/01/2013;742431;Vespertino;21/10/2025;27/11/2024;04/11/2025;Si;;Si;Viernes
+60089575;8E5CBBB7;Cabrera Valerio;Yanaína Cabrera Valerio;Yanaína;M;11;6/02/2013;678347;Vespertino;22/08/2029;31/12/2024;01/01/2027;Si;;No;Viernes
+60125589;7313D6BC;Paredes Silva;Ivonne Paredes Silva;Ivonne;M;11;27/02/2013;643784;Vespertino;30/07/2030;17/10/2025;27/02/2025;Si;;No;Viernes
+60149280;421A9530;Ledesma Fuentes;Guzmán Ledesma Fuentes;Guzmán;V;11;10/03/2013;678856;Matutino;07/06/2028;07/10/2024;10/03/2025;No;16/02/2020;Si;
+60242397;;Tealdi;Victoria Tealdi;Victoria;M;11;5/8/2013 4:00:00;811125;Matutino;;;;;;;
+60245747;548D7736;Mena Meneses;Brian Mena Meneses;Brian;V;11;10/05/2013;499931;Vespertino;06/06/2029;19/03/2025;04/06/2024;Si;;No;Viernes
+60263513;7718cf0c;Ramos Alvarez;Ignacio Ramos Alvarez;Ignacio;V;11;21/05/2013;742092;Matutino;16/08/2029;01/11/2024;21/05/2024;Si;17/03/2022;Si;
+60307870;;Lopez;Mateo Lopez;Mateo;V;11;6/18/2013 4:00:00;508010;Matutino;;;;;;;
+60354754;886791B4;Granja Segredo;Lupe Granja Segredo;Lupe;M;11;16/07/2013;499765;Vespertino;31/07/2029;02/09/2025;16/07/2025;Si;;Si;Viernes
+60448282;D547DD39;Franco Uriarte;Genaro Franco Uriarte;Genaro;V;11;11/09/2013;712253;Matutino;28/9/2029;15/5/2025;11/09/2025;Si;01/03/2021;Si;
+60495912;55F8FDAF;Charlo Olivera;Thiago Charlo Olivera;Thiago;V;11;7/10/2013;520744;Matutino;11/04/2030;31/12/2024;10/12/2024;No;05/10/2021;Si;
+60499673;ae32c817;Sosa Correa;Victoria Sosa Correa;Victoria;M;11;9/10/2013;742665;Vespertino;20/11/2029;06/06/2025;09/10/2024;Si;01/01/2022;No;Viernes
+60626765;9944a184;Hernández Cáceres;Lautaro Hernández Cáceres;Lautaro;V;10;21/12/13;747057;Vespertino;19/3/2030;1/12/2024;21/12/2024;Si;;Si;Viernes
+60645789;4a689875;Luna;Julieta Luna;Julieta;M;10;1/3/2014 5:00:00;776470;Vespertino;28/2/2030;18/3/2025;31/05/2025;No;;Si;Viernes
+60666488;e4f95b77;Techera Garcia;Luciano Techera Garcia;Luciano;V;10;16/1/14;550917;Matutino;26/1/2030;1/3/2025;16/01/2025;;03/04/2024;;
+60674502;c16e489d;Carbajal;Rodrigo Carbajal;Rodrigo;V;10;1/21/2014 5:00:00;553636;Vespertino;16/2/2030;8/10/2025;14/01/2025;Si;21/08/2024;Si;Viernes
+60686763;b03be0fb;Maldonado Gamboa;Diego Maldonado Gamboa;Diego;V;10;28/01/2014;523853;Vespertino;25/02/2030;26/12/2024;28/01/2025;Si;01/01/2022;No;Viernes
+60694558;8588422C;Ciganda Carballo;Celeste Ciganda Carballo;Celeste;M;10;1/02/2014;530002;Vespertino;17/05/2030;1/12/2024;01/02/2025;Si;;Si;Viernes
+60750825;32b6e9f6;Pibete;Melany Pibete;Melany;M;10;3/6/2014 5:00:00;605818;Vespertino;26/4/2030;4/10/2025;06/03/2025;Si;03/04/2024;;Viernes
+60790714;C60C1499;Acosta Pioli;Rocio Acosta Pioli;Rocio;M;10;25/03/2014;551231;Vespertino;11/06/2030;11/11/2024;25/08/2025;Si;;Si;Viernes
+60791241;;Homrich;Santino Homrich;Santino;V;10;3/28/2014 4:00:00;785777;Matutino;12/4/2030;22/3/2025;25/03/2025;;03/04/2024;;
+60796912;6ed033c3;Navarro Ortiz;Gonzalo Navarro Ortiz;Gonzalo;V;10;1/04/2014;742712;Vespertino;26/03/2030;10/07/2025;11/04/2025;Si;01/01/2022;Si;Viernes
+60950136;66012A47;Soto Castellano;Leandro Soto Castellano;Leandro;V;10;28/06/2014;527254;Vespertino;17/09/2024;26/01/2025;28/06/2025;No;01/01/2020;Si;Viernes
+60989658;;Correa;Renata Correa;Renata;M;10;7/21/2014 4:00:00;803380;Matutino;26/8/2024;26/8/2025;21/07/2026;;03/04/2024;;
+61011733;03EA7FAC;Cambre Rodriguez;Maximiliano Cambre Rodriguez;Maximiliano;V;10;1/08/2014;712001;Matutino;28/9/2030;10/12/2024;01/08/2026;No;01/03/2021;Si;
+61029772;F9BF277E;Wilkins Paz;Derek Wilkins Paz;Derek;V;10;14/08/2014;532577;Vespertino;04/11/2024;12/04/2025;14/08/2025;No;;Si;Viernes
+61122691;1BD373B9;Escudero Alonso;Maite Escudero Alonso;Maite;M;10;12/10/2014;613163;Vespertino;31/10/2024;08/04/2025;12/10/2025;Si;;Si;Viernes
+61225253;;Quintana;Luciana Quintana;Luciana;M;9;12/17/2014 5:00:00;571608;Matutino;29/11/2024;3/9/2025;17/12/2025;Si;01/10/2024;No;
+61337290;322F4102;Borche Gonzalez;Mia Borche Gonzalez;Mia;M;9;25/02/2015;635242;Matutino;10/09/2025;29/10/2024;25/02/2026;Si;;No;
+61344285;1DA9752B;Dotti Riezo;Lia Dotti Riezo;Lia;M;9;1/03/2015;574009;Vespertino;29/05/2025;14/2/2025;01/03/2026;Si;;Si;Viernes
+61346142;69fc1893;Alfonso;Axel Alfonso;Axel;V;9;2/27/2015 5:00:00;581585;Vespertino;12/5/2025;28/12/2024;27/02/2026;Si;;No;Viernes
+61477460;;Dos Santos;Brianna Dos Santos;Brianna;M;9;5/19/2015 4:00:00;603674;Matutino;1/3/2026;12/4/2025;19/05/2026;;03/04/2024;;
+61491882;a66ce85a;Sanchez;Josefina Sanchez;Josefina;M;9;5/30/2015 4:00:00;803350;Vespertino;6/11/2025;31/3/2025;03/04/2026;Si;01/04/2024;;Jueves
+61492171;;Dibitonto;Joaquin Dibitonto;Joaquin;V;9;5/27/2015 4:00:00;811121;Matutino;;;;;;;
+61495929;72b0939d;Amado Pérez;Florencia Amado Pérez;Florencia;M;9;2/06/2015;602620;Vespertino;21/10/2025;1/11/2024;02/06/2026;Si;;Si;Jueves
+61497795;5692147d;Velo;Francesca Velo;Francesca;M;9;6/3/2015 4:00:00;626220;Matutino;18/3/2026;7/2/2025;;Si;03/04/2024;;
+61515080;0a83af2f;Magnini Machín;Luzmila Magnini Machín;Luzmila;M;9;13/6/15;551084;Matutino;25/3/2026;29/12/2024;13/06/2026;Si;;Si;
+61520005;;Tealdi;Federico Tealdi;Federico;V;9;7/24/2015 4:00:00;811138;Matutino;25/7/2025;1/3/2025;16/06/2026;Si;22/10/2024;Si;
+61539032;83B73592;Gómez Vergara;Jeison Gómez Vergara;Jeison;V;9;28/06/2015;557780;Vespertino;22/07/2025;12/12/2024;28/06/2026;Si;;No;Jueves
+61547582;4C67C7A2;Muniz Galli;Santino Muniz Galli;Santino;V;9;3/07/2015;594865;Vespertino;19/11/2025;25/12/2024;03/07/2026;Si;;No;Jueves
+61584479;1f258cc0;Lujan Rosa;Dairon Lujan Rosa;Dairon;V;9;25/7/15;577281;Vespertino;11/11/2025;2/9/2025;07/09/2026;Si;;Si;Jueves
+61593268;2E1E22D1;Pla Martinez;Genaro Pla Martinez;Genaro;V;9;31/07/2015;583133;Matutino;07/10/2025;23/09/2025;05/01/2026;Si;10/12/2021;No;
+61609386;;Asti;Dylan Asti;Dylan;V;9;8/10/2015 4:00:00;803765;Matutino;;;;;;;
+61629570;627d9686;Sosa;Daiana Sosa;Daiana;M;9;8/22/2015 4:00:00;567385;Vespertino;6/10/2025;31/1/2025;22/08/2026;Si;03/04/2024;;Jueves
+61646013;51352d15;Carneiro;Lautaro Carneiro;Lautaro;V;9;9/1/2015 4:00:00;563317;Vespertino;5/9/2030;28/2/2025;01/09/2026;Si;11/07/2024;Si;Jueves
+61682956;71446ab2;Portainter;Dante Portainter ;Dante;V;9;9/23/2015 4:00:00;788386;Vespertino;26/7/2029;27/3/2025;23/09/2026;Si;03/04/2024;;Jueves
+61728813;;Bica;Julieta Bica;Julieta;M;9;10/22/2015 4:00:00;794119;Matutino;20/10/2025;1/7/2024;22/10/2027;;03/04/2024;;
+61814010;d6af78f8;Ponce Perez;Amelie Ponce Perez;Amelie;M;8;14/12/15;699846;Vespertino;18/12/2025;4/4/2025;14/12/2026;No;14/03/2024;Si;Jueves
+61851537;;Duarte;Ithan Duarte;Ithan;V;8;1/26/2016 5:00:00;582986;Matutino;21/6/2026;3/1/2025;07/01/2027;Si;03/04/2024;No;
+61886423;;Pallero;Santino Pallero;Santino;V;8;1/28/2016 5:00:00;616081;Vespertino;;;;;;;
+62092061;ec5fc0bb;Dominguez;Benjamín Dominguez;Benjamín;V;8;6/3/2016 4:00:00;791628;Vespertino;11/8/2026;1/1/2025;03/06/2027;;03/04/2024;;Jueves
+62138990;ece97034;Perdigon Fraygola;Martina Perdigon Fraygola;Martina;M;8;1/7/16;599433;Vespertino;1/12/2026;2/7/2025;01/07/2027;Si;;Si;Jueves
+62303268;41166578;Umpierrez Rivero;Martina Umpierrez Rivero;Martina;M;8;12/10/16;663926;Matutino;24/11/2026;4/6/2025;;No;;No;
+62329503;;Belmonte;Nahuel Belmonte;Nahuel;V;8;10/27/2016 4:00:00;723428;Matutino;2/12/2026;4/3/2025;29/10/2027;No;01/01/2001;No;
+62333245;3188178c;Rosado Da Luz;Luzmila Rosado Da Luz;Luzmila;M;8;10/30/2016 4:00:00;776486;Matutino;23/6/2029;9/9/2025;30/10/2027;No;29/08/2023;Si;
+62352974;2ed2bbb7;Burgueño;Lara Burgueño;Lara;M;7;11/12/2016 5:00:00;584084;Matutino;1/10/2024;11/3/2025;12/11/2027;Si;01/07/2023;Si;
+62437011;eb5ce706;Nogueira;Candela Nogueira;Candela;M;7;1/4/2017 5:00:00;647465;Vespertino;17/2/2028;31/3/2025;04/01/2028;Si;03/04/2024;;Jueves
+62455683;e582b19c;Eguias Marichal;Lautaro Eguias Marichal;Lautaro;V;7;17/1/17;773091;Matutino;20/8/2028;5/4/2025;20/08/2028;Si;;Si;
+62473318;;Quintana;Martina Quintana;Martina;M;7;1/27/2017 5:00:00;816171;Matutino;;;;;;;
+62504341;418beb11;Flores;Lorenzo Flores ;Lorenzo;M;7;2/16/2017 5:00:00;614190;Matutino;26/4/2028;29/4/2025;16/02/2028;No;01/07/2023;Si;
+62539823;1d40df14;Francia;Ates Francia;Ates;V;7;3/9/2017 5:00:00;731623;Matutino;;;;;;;
+62541620;;Sierig;Naomi Sierig;Naomi;M;7;3/11/2017 5:00:00;663629;Matutino;9/5/2028;16/7/2025;07/05/2028;Si;01/07/2023;No;
+62546272;;Antunez;Deiby Antunez;Deiby;V;7;3/13/2017 4:00:00;773062;Matutino;5/7/2029;5/8/2025;13/03/2028;No;03/04/2024;;
+62579289;236ec801;Porcal Jubin;Dylan Porcal Jubin;Dylan;V;7;1/4/17;623147;Vespertino;26/5/2028;14/8/2025;01/08/2029;Si;;No;Jueves
+62736029;83B73592;Gómez vergara;Tadheo Gómez vergara;Tadheo;V;7;7/7/17;617320;Vespertino;21/6/2028;27/2/2024;07/07/2028;Si;;No;Jueves
+62782545;efdc382b;Fleitas;Felipe Fleitas;Felipe;V;7;5/8/2017;787661;Matutino;2/9/2028;26/7/2025;;No;07/11/2023;Si;
+62805896;4a689875;Giménez;Nirvana Giménez;Nirvana;M;7;8/19/2017 4:00:00;616885;Vespertino;21/8/2024;4/10/2024;19/08/2028;Si;21/08/2024;Si;Jueves
+62809591;fabca6b4;Rocha;Guadalupe Rocha;Guadalupe;M;7;8/22/2017 4:00:00;789622;Vespertino;22/9/2028;2/1/2025;;Si;03/04/2024;;Jueves
+62812079;aaea3f01;Arias;Santino Arias;Santino;V;7;8/23/2017 4:00:00;806806;Vespertino;15/9/2028;25/10/2024;21/08/2024;Si;21/08/2024;Si;Jueves
+62820030;c8ea277a;Castro;Diana Castro;Diana;M;7;8/29/2017 4:00:00;615198;Vespertino;8/1/2029;6/10/2025;03/04/2028;;03/04/2024;;Jueves
+62826012;;Maidana;Facundo Maidana;Facundo;V;7;9/1/2017 4:00:00;622045;Matutino;26/9/2026;16/8/2025;01/09/2028;Si;01/04/2024;No;
+63013426;;Barreto;Elías Barreto;Elías;V;6;12/26/2017 5:00:00;655605;Matutino;20/1/2029;31/12/2024;26/12/2028;;03/04/2024;;
+63085958;;Koprek;Facundo Koprek;Facundo;V;6;2/8/2018 5:00:00;656001;Matutino;11/11/2026;25/9/2025;08/02/2029;No;03/04/2024;;
+63097686;8E5CBBB7;Cabrera;Tiziana Cabrera;Tiziana;M;6;2/17/2018 5:00:00;662050;Vespertino;20/3/2029;1/12/2024;17/02/2029;;01/04/2024;;Jueves
+63113876;;Puglia;Emiliano Puglia;Emiliano;V;6;2/26/2018 5:00:00;657065;Vespertino;3/4/2029;20/8/2025;26/02/2029;Si;21/08/2024;Si;Jueves
+63117731;;Antunez;Juana Antunez;Juana;M;6;3/1/2018 5:00:00;647065;Matutino;3/3/2029;3/3/2025;01/03/2029;Si;03/04/2024;;
+63147984;;Magnini;Oriana Magnini;Oriana;M;6;3/20/2018 4:00:00;637147;Matutino;19/4/2029;3/3/2025;20/03/2029;Si;03/04/2024;;
+63660857;627d9686;Ferreira;Benjamín Ferreira;Benjamín;V;5;1/22/2019 5:00:00;655130;Vespertino;29/1/2024;17/8/2025;22/01/2030;Si;03/04/2024;;Jueves
