@@ -1,0 +1,155 @@
+/* Paleta monocromática para Tejanitos */
+:root {
+  --primary-color: #212529;
+  --secondary-color: #495057;
+  --light-color: #f8f9fa;
+  --border-color: #dee2e6;
+  --hover-color: #e9ecef;
+  --text-color: #212529;
+  --muted-text: #6c757d;
+  --success-color: #343a40;
+  --danger-color: #343a40;
+  --info-color: #343a40;
+  --warning-color: #343a40;
+}
+
+/* Estilos generales */
+body {
+  color: var(--text-color);
+  background-color: #fff;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--primary-color) !important;
+}
+
+/* Enlaces de navegación */
+.navbar .nav-link {
+  color: white !important;
+  opacity: 0.9;
+}
+
+.navbar .nav-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.navbar .navbar-brand {
+  color: white !important;
+}
+
+/* Botones */
+.btn-primary {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.btn-secondary {
+  background-color: var(--secondary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+.btn-outline-primary {
+  color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+.btn-outline-secondary {
+  color: var(--secondary-color) !important;
+  border-color: var(--secondary-color) !important;
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--secondary-color) !important;
+  color: white !important;
+}
+
+.btn-outline-danger {
+  color: var(--danger-color) !important;
+  border-color: var(--danger-color) !important;
+}
+
+.btn-outline-danger:hover {
+  background-color: var(--danger-color) !important;
+  color: white !important;
+}
+
+.btn-outline-dark {
+  color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.btn-outline-dark:hover {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+/* Cards */
+.card {
+  border-color: var(--border-color) !important;
+}
+
+.card-header {
+  background-color: var(--light-color) !important;
+  border-bottom-color: var(--border-color) !important;
+}
+
+/* Tablas */
+.table {
+  color: var(--text-color) !important;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.02) !important;
+}
+
+.table-hover tbody tr:hover {
+  background-color: var(--hover-color) !important;
+}
+
+/* Formularios */
+.form-control:focus {
+  border-color: var(--secondary-color) !important;
+  box-shadow: 0 0 0 0.25rem rgba(73, 80, 87, 0.25) !important;
+}
+
+/* Alertas */
+.alert-info {
+  background-color: var(--light-color) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-color) !important;
+}
+
+.alert-success {
+  background-color: var(--light-color) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-color) !important;
+}
+
+.alert-danger {
+  background-color: var(--light-color) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Footer */
+footer {
+  background-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+/* Iconos de acción */
+.action-icon {
+  color: var(--secondary-color);
+}
+
+/* Filas seleccionadas */
+.selected-row {
+  background-color: var(--hover-color) !important;
+}
